@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "barcode": null,
+      "product_id": 7,
+      "unit": 6,
+      "qty": 5,
+      "discount": 75,
+      "op_stock": 75,
+      "price": 100,
+      "store_id": 1,
+      "units": [
+        {
+          "id": 1,
+          "name": "pakcets"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "barcode": null,
+      "product_id": 7,
+      "unit": 6,
+      "qty": 5,
+      "discount": 75,
+      "op_stock": 75,
+      "price": 100,
+      "store_id": 1,
+      "units": [
+        {
+          "id": 1,
+          "name": "pakcets"
+        }
+      ]
+    }
+  ]
+}
